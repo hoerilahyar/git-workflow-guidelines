@@ -145,7 +145,7 @@ note: <optional notes or testing instructions>
 
 ### Example — Merge Request
 ```bash
-MR gtw_mobile_member:
+MR gateway_services:
 - feat: add new OTP verification flow
 cc: @hoeril @iqbal
 note: please test with dummy number before merge
@@ -153,7 +153,7 @@ note: please test with dummy number before merge
 
 ### Example — Hotfix Delivery
 ```bash
-Hotfix gtw_artaku_mobile:
+Hotfix gateway_services:
 - hotfix: fix login POST issue
 cc: @hoeril
 note: tested on staging, urgent production patch
